@@ -1,0 +1,74 @@
+#title{
+    text-align: center;
+  }
+  
+  body{
+    background-color: lightgrey;
+    font-family: verdana;
+  }
+  
+  form{
+    background-color: grey;
+    width:500px;
+    margin: auto;
+    padding: 10px;
+    opacity: 80%;
+    
+  }
+  
+  p {
+    font-style: italic;
+    text-align: center;
+  }
+  
+  label{
+    display: block;
+    padding-bottom: 5px;
+    padding-top: 5px;
+  
+    
+  }
+  
+  input{
+    display: block;
+    border-radius: 4px;
+    padding-top: 5px;
+   
+  }
+  
+  #submit{
+    width: 80%;
+    height: 35px;
+    margin: 20px auto;
+    background-color: green;
+    color: white;
+  }
+  
+  #dropdown{
+    width: 80%;
+    margin-bottom: 15px;
+    margin-top: 5px;
+    display: block;
+  
+  }
+  .friend{
+    margin-bottom: 5px;
+  }
+  
+  .improve{
+    margin-bottom: 5px;
+    margin-top: 20px;
+  }
+  
+  .comments{
+    display: block;
+    margin: 20px auto;
+  }
+  input[type="checkbox"]{
+    margin-top: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .bold-text{
+    font-weight: bold;
+  }
